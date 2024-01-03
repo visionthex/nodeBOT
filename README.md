@@ -19,11 +19,10 @@ This is a chatbot application that uses Google's Generative AI to interact with 
 ## Installation
 
 1. Clone the repository
-2. Run `npm install` to install dependencies
-3. Run `npm install @google/generative-ai` to install dependencies
-4. Run `npm dotenv` to install secret dependencies
-5. Create a `.env` file in the root directory and add your API key:
-6. Create a `.gitignore` file in the root directory and add your `.env`
+2. Run `npm install @google/generative-ai` to install dependencies
+3. Run `npm install dotenv` to install secret dependencies
+4. Create a `.env` file in the root directory and add your API key:
+5. Create a `.gitignore` file in the root directory and add your `.env`
 
 What to put inside .env file
 ```
@@ -55,4 +54,4 @@ If you have any questions, feel free to reach out.
 
 ## All powered by:
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ai)](https://github.com/visionthex)
+![My Skills](https://skillicons.dev/icons?i=nodejs,js,ai)
